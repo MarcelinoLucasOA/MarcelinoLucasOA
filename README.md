@@ -11,7 +11,7 @@ Estudante de Engenharia Mecânica e Análise e Desenvolvimento de sistemas apaix
 - 💬 Me pergunte sobre PHP, Python, JavaScript e bots
 - ⚡ Curiosidade: Eu adoro misturar fantasia com tecnologia no tempo livre
 
-## Linguagens e Frameworks
+## 💬 Linguagens e Frameworks
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
@@ -21,7 +21,7 @@ Estudante de Engenharia Mecânica e Análise e Desenvolvimento de sistemas apaix
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40px"/>
 </div>
 
-## 🚀 Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="40px"/>
@@ -30,3 +30,7 @@ Estudante de Engenharia Mecânica e Análise e Desenvolvimento de sistemas apaix
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40px"/>
 </div>
+
+## 📱 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/marcelinolucasoa)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:marcelinolucasbr@gmail.com)
