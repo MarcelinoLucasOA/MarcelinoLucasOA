@@ -12,7 +12,4 @@ Estudante de Engenharia Mecânica e Análise e Desenvolvimento de sistemas apaix
 - ⚡ Curiosidade: Eu adoro misturar fantasia com tecnologia no tempo livre
 
 ## 🚀 Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-lightgrey?style=flat-square&logo=puppeteer)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
