@@ -12,4 +12,5 @@ Estudante de Engenharia Mecânica e Análise e Desenvolvimento de sistemas apaix
 - ⚡ Curiosidade: Eu adoro misturar fantasia com tecnologia no tempo livre
 
 ## 🚀 Tecnologias e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
